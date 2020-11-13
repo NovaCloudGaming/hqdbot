@@ -34,7 +34,7 @@ pyperclip==1.7.0
 pyQiwiP2P==1.0a6
 pyTelegramBotAPI==3.6.6
 pytz==2020.4
-pywin32==228
+
 requests==2.22.0
 six==1.13.0
 tempora==4.0.1
