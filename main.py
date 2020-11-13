@@ -3,7 +3,6 @@
 from pyqiwip2p import QiwiP2P
 from pyqiwip2p.types import QiwiCustomer, QiwiDatetime
 import sqlite3
-import aioqiwi
 import requests
 import asyncio
 import menu
