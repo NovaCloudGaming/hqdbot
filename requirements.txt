@@ -1,6 +1,6 @@
 aiogram==2.11.2
 aiohttp==3.7.2
-aioqiwi==1.1.5
+
 async-timeout==3.0.1
 attrs==19.3.0
 Babel==2.9.0
@@ -42,16 +42,8 @@ termcolor==1.1.0
 typing-extensions==3.7.4.3
 urllib3==1.25.6
 vbml==0.5.92
-vk==2.0.2
-vk-api==11.6.1
-vkapi==1.1
-vkapi8==2.0.1
-vkbottle==1.35
-VKPy==0.1.1
-vktoken==1.0.0
+
 Werkzeug==1.0.0
 win32-setctime==1.0.1
 yarl==1.4.2
 zc.lockfile==2.0
-pyTelegramBotAPI==3.6.6
-heroku==0.1.4
