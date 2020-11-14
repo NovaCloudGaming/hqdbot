@@ -53,7 +53,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/6368.jpg','rb'), caption= 'Цена: 1000рублей' )
+                           photo=open('photo/6368.jpg','rb'), caption= 'Цена: 450рублей' )
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇',
@@ -63,7 +63,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/6675.jpg','rb'), caption= 'Цена: 1000рублей')
+                           photo=open('photo/6675.jpg','rb'), caption= 'Цена: 450рублей')
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇',
@@ -73,7 +73,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/7150.jpg','rb'), caption= 'Цена: 1000рублей')
+                           photo=open('photo/7150.jpg','rb'), caption= 'Цена: 450рублей')
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇',
@@ -84,7 +84,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/5528.jpg','rb'), caption= 'Цена: 1000рублей')
+                           photo=open('photo/5528.jpg','rb'), caption= 'Цена: 450рублей')
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇',
@@ -94,7 +94,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/5153.jpg','rb'), caption= 'Цена: 1000рублей')
+                           photo=open('photo/5153.jpg','rb'), caption= 'Цена: 450рублей')
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇',
@@ -104,7 +104,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/5983.jpg','rb'), caption= 'Цена: 1000рублей')
+                           photo=open('photo/5983.jpg','rb'), caption= 'Цена: 450рублей')
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇',
@@ -114,7 +114,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/6956.jpg','rb'), caption= 'Цена: 1000рублей')
+                           photo=open('photo/6956.jpg','rb'), caption= 'Цена: 450рублей')
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇',
@@ -124,7 +124,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/8394.jpg','rb'), caption= 'Цена: 1000рублей')
+                           photo=open('photo/8394.jpg','rb'), caption= 'Цена: 450рублей')
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇',
@@ -134,7 +134,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/5534.jpg','rb'), caption= 'Цена: 1000рублей')
+                           photo=open('photo/5534.jpg','rb'), caption= 'Цена: 450рублей')
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇',
@@ -144,7 +144,7 @@ def start_bot():
             bot.delete_message(chat_id=chat_id,
                                message_id=message_id)
             bot.send_photo(chat_id=chat_id,
-                           photo=open('photo/4884.jpg','rb'), caption= 'Цена: 1000рублей')
+                           photo=open('photo/4884.jpg','rb'), caption= 'Цена: 450рублей')
             bot.send_message(
                 chat_id=chat_id,
                 text='👇👇👇👇👇',
